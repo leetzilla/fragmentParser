@@ -1,0 +1,11 @@
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.exe
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.deps.json
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.runtimeconfig.json
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.runtimeconfig.dev.json
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.dll
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\bin\Debug\netcoreapp3.0\FragmentParser.pdb
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\obj\Debug\netcoreapp3.0\FragmentParser.csprojAssemblyReference.cache
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\obj\Debug\netcoreapp3.0\FragmentParser.AssemblyInfoInputs.cache
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\obj\Debug\netcoreapp3.0\FragmentParser.AssemblyInfo.cs
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\obj\Debug\netcoreapp3.0\FragmentParser.dll
+C:\Users\michael\source\repos\FragmentParser\FragmentParser\obj\Debug\netcoreapp3.0\FragmentParser.pdb
